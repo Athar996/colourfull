@@ -1,0 +1,40 @@
+
+    @media (min-width:51px) and (max-width:599px)
+
+    {
+        h1 {
+        font-size: xx-small;
+        margin-top: 0%;
+        padding: 0%;
+      }
+               
+      .container {
+        border: 2px solid red;
+        display: flex;
+        justify-content: space-around;      
+       
+      }
+      
+
+      #one,#two,#three,#four,#five,#six
+      {
+        width: 20px;
+        padding:4px;
+     
+      }      
+
+       p,h1
+      {
+        text-align: center;
+      }
+
+      button
+      {
+        font-size: xx-small;
+        border: 1px solid black;
+        border-radius: 10px;
+        background-color: cadetblue;
+          
+      }
+        
+    }

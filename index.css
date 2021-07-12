@@ -1,0 +1,48 @@
+@media (min-width:600px) and (max-width:10000px)
+{
+           
+.container {
+border: 3px solid red;
+padding: 40px;
+width: 60%;
+margin: auto;
+
+}
+h1 {
+font-size: large;
+margin-top: 0%;
+padding: 0%;
+}
+
+#one,#two,#three,#four,#five,#six
+{
+padding: 2rem;
+width: 10%;
+border: 3px solid rgb(0, 0, 0);
+box-shadow: 6px 6px rgb(53, 48, 48);        
+margin: auto;
+border-radius:200px;
+}
+
+.row1,.row2
+{
+  display: flex;
+  margin-bottom: 20px;
+}
+
+p,h1
+{
+text-align: center;
+}
+
+button
+{
+  width: 100%;
+  padding: 20px;
+  font-size: 2rem;
+  font-style:oblique;
+  background-color: blueviolet;
+  border-radius:100px;
+  
+}
+}
